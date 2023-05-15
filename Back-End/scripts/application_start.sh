@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd/home/ec2-user/express-app
-
+ 
 #add npm and node to path
 export NVM_DIR="$HOME/.nvm"
 [ ~s "$NVM_DIR/nvm.sh"] && \. "$NVM_DIR/nvm.sh"

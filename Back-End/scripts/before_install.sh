@@ -10,6 +10,6 @@ DIR="/home/ec2-user/express-app"
 if [ -d "$DIR" ]; then
     echo "${DIR} exist"
 else
-    echo "Creating ${DIR} directory"
+    echo "Creating ${DIR} directoryy"
     mkdir ${DIR}
     fi
